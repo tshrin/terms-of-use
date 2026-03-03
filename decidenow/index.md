@@ -69,4 +69,4 @@ title: DecideNow 利用規約
 
 制定日：2026年3月3日  
 開発者：Takao Ninomiya  
-お問い合わせ：アプリ内または指定のメールアドレスよりお願いいたします。
+お問い合わせ：[こちら](https://forms.gle/zuYHWKmZpkCKRGmTA)のお問い合わせフォームにお願いします。
